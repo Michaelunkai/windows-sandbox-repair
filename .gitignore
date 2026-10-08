@@ -1,0 +1,8 @@
+logs/
+backups/
+tools/
+*.pml
+*.csv
+*.tmp
+.git.broken-husk/
+__pycache__/
